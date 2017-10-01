@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Ip location query.",
   "dependencies": {
-    "debug": "0.8.0",
+    "debug": "2.6.9",
     "iconv-lite": "0.2.11"
   },
   "devDependencies": {
